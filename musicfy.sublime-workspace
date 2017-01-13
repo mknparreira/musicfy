@@ -1,0 +1,1702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scr",
+				"srcpath"
+			],
+			[
+				"jon",
+				"jsonData"
+			],
+			[
+				"al",
+				"album"
+			],
+			[
+				"jsonD",
+				"jsonDataMusic"
+			],
+			[
+				"mus",
+				"musics"
+			],
+			[
+				"json",
+				"jsonDataMusic"
+			],
+			[
+				"jsonData",
+				"jsonDataMusic"
+			],
+			[
+				"alb",
+				"albums"
+			],
+			[
+				"art",
+				"artists"
+			],
+			[
+				"getAll",
+				"getAllBands"
+			],
+			[
+				"slug",
+				"slug_artist"
+			],
+			[
+				"slu",
+				"slug_artist"
+			],
+			[
+				"index",
+				"index_album"
+			],
+			[
+				"index_",
+				"index_album"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"flie",
+				"fileStats"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"get",
+				"get\t.get()"
+			],
+			[
+				"relacion",
+				"relacionado_id"
+			],
+			[
+				"relac",
+				"relacionado_id"
+			],
+			[
+				"rela",
+				"relacionado_id"
+			],
+			[
+				"arquivo",
+				"arquivo_juntar"
+			],
+			[
+				"nome_a",
+				"nome_alterado"
+			],
+			[
+				"data_n",
+				"data_nascimento_alterado"
+			],
+			[
+				"pessoa",
+				"pessoa_falecida"
+			],
+			[
+				"telefone",
+				"telefone_secundario"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"data",
+				"data_nascimento"
+			],
+			[
+				"prontuario",
+				"prontuario_associado"
+			],
+			[
+				"prontua",
+				"prontuario_associado"
+			],
+			[
+				"cargo",
+				"cargo_pretendido"
+			],
+			[
+				"baixar",
+				"baixar_arquivo_esocial"
+			],
+			[
+				"esocial",
+				"esocialCadastradoEm"
+			],
+			[
+				"Application_MOdel",
+				"Application_Model_Global"
+			],
+			[
+				"dro",
+				"dropHide"
+			],
+			[
+				"hide",
+				"hideCpf"
+			],
+			[
+				"moti",
+				"motivo"
+			],
+			[
+				"motivo",
+				"motivo_medida"
+			],
+			[
+				"validate",
+				"validateInterno"
+			],
+			[
+				"total",
+				"total_grade_mensal"
+			],
+			[
+				"mater",
+				"material"
+			],
+			[
+				"mate",
+				"material"
+			],
+			[
+				"sugestao",
+				"sugestao_compra_"
+			],
+			[
+				"quan",
+				"quantidade"
+			],
+			[
+				"ma",
+				"material"
+			],
+			[
+				"materia",
+				"material_id"
+			],
+			[
+				"cave",
+				"chave"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"valor",
+				"valor_tomada_decisao_1_2"
+			],
+			[
+				"uf",
+				"ufTab1"
+			],
+			[
+				"estoq",
+				"estoqueSeguranca"
+			],
+			[
+				"porc",
+				"porcentagem_seguranca_grade"
+			],
+			[
+				"porcenta",
+				"porcentagem_seguranca_grade"
+			],
+			[
+				"resul",
+				"resultado"
+			],
+			[
+				"sald",
+				"saldo_no_cd"
+			],
+			[
+				"esto",
+				"estoque_seguranca"
+			],
+			[
+				"per",
+				"percentual_cobertura_"
+			],
+			[
+				"_per",
+				"_percentual_seguranca"
+			],
+			[
+				"float",
+				"floatToMoeda"
+			],
+			[
+				"alterar",
+				"alterar_relacionado"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"moda",
+				"modalidade"
+			],
+			[
+				"valor_",
+				"valor_bruto_engenharia"
+			],
+			[
+				"dados",
+				"dados_grade"
+			],
+			[
+				"pagamento",
+				"pagamento_id"
+			],
+			[
+				"correcao",
+				"correcaoMonetaria"
+			],
+			[
+				"compete",
+				"competencia_inicial"
+			],
+			[
+				"compe",
+				"competenciaFinal"
+			],
+			[
+				"fre",
+				"frequencia_atual"
+			],
+			[
+				"qtn_",
+				"qtn_atual"
+			],
+			[
+				"freq",
+				"frequencia_sugerida"
+			],
+			[
+				"label",
+				"labelRequired"
+			],
+			[
+				"max",
+				"maxlength"
+			],
+			[
+				"ke",
+				"keydown\t.keydown()"
+			],
+			[
+				"area",
+				"area_total"
+			],
+			[
+				"taman",
+				"tamanho_loja"
+			],
+			[
+				"quant",
+				"quantidade_gastos"
+			],
+			[
+				"com",
+				"competencia"
+			],
+			[
+				"Sys",
+				"System_Data_Criteria"
+			],
+			[
+				"criteria",
+				"criteria"
+			],
+			[
+				"cd",
+				"cd_loja"
+			],
+			[
+				"numero",
+				"numero_0800"
+			],
+			[
+				"_",
+				"_REQUEST"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"gradeQ",
+				"gradeQtn"
+			],
+			[
+				"ajax",
+				"ajaxsend\t$.ajaxSend()"
+			],
+			[
+				"tex",
+				"teste_xdebug"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"servic",
+				"servico_id"
+			],
+			[
+				"servi",
+				"servico_id"
+			],
+			[
+				"status",
+				"status_id"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"sty",
+				"style\t(Liberar.page)"
+			],
+			[
+				"ordem",
+				"ordem_servico"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"setPorcentag",
+				"setPorcentagemIpi\t(MateriaisCdValores.class.php)"
+			],
+			[
+				"por",
+				"porcentagem_ipi\t(Administrar.page)"
+			],
+			[
+				"_valo",
+				"_valor_engenharia"
+			],
+			[
+				"preco",
+				"preco_custo\t(MateriaisCdValores.class.php)"
+			],
+			[
+				"getset",
+				"getset\tCreate getter and setter methods"
+			],
+			[
+				"porcent",
+				"porcentagem_ipi"
+			],
+			[
+				"cha",
+				"chave"
+			],
+			[
+				"chave",
+				"chave_id\t(MateriaisCdCompras.class.php)"
+			],
+			[
+				"_va",
+				"_valor_engenharia"
+			],
+			[
+				"comprar",
+				"comprar_material\t(Administrar.page)"
+			],
+			[
+				"data_",
+				"data_compra\t(MateriaisCdCompras.class.php)"
+			],
+			[
+				"registro",
+				"registro_compra"
+			],
+			[
+				"inform",
+				"informar_compra_material"
+			],
+			[
+				"regi",
+				"registro_compra"
+			],
+			[
+				"sw",
+				"sweetalert\t(administrar.js)"
+			],
+			[
+				"syste",
+				"System_Data_Criteria"
+			],
+			[
+				"criteri",
+				"criteria_centro_distribuicao"
+			],
+			[
+				"Applicat",
+				"Application_Model_Loja"
+			],
+			[
+				"porce",
+				"porcentagem_cobertura"
+			],
+			[
+				"porcentag",
+				"porcentagem_cobertura\t(Auxiliar.class.php)"
+			],
+			[
+				"porcen",
+				"porcentagemCobertura\t(MateriaisCdValores.class.php)"
+			],
+			[
+				"estoque",
+				"estoque_seguranca\t(administrar.js)"
+			],
+			[
+				"_perc",
+				"_percentual_cobertura"
+			],
+			[
+				"est",
+				"estoque_seguranca\t(funcoes.js)"
+			],
+			[
+				"eto",
+				"estoque_seguranca"
+			],
+			[
+				"materi",
+				"material_descontinuado"
+			],
+			[
+				"material",
+				"material_descontinuado\t(Administrar.page)"
+			],
+			[
+				"salvar",
+				"salvarQtdDiasParaAtenderPedido\t(funcoes.js)"
+			],
+			[
+				"atender",
+				"atender_pedido\t(Administrar.page)"
+			],
+			[
+				"obj",
+				"object"
+			],
+			[
+				"percen",
+				"percentual_seguranca_grade\t(Administrar.page)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ja",
+		"selected_items":
+		[
+			[
+				"ja",
+				"Format: Javascript"
+			],
+			[
+				"",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"php",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"for",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"form",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"xdeb",
+				"Xdebug: Restore Layout"
+			],
+			[
+				"xd",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"fo",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"x",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Code",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"Pac",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"phpfmt: format now"
+			],
+			[
+				"phpf",
+				"phpfmt: format now"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			],
+			[
+				"JSH",
+				"JSHint"
+			],
+			[
+				"pact",
+				"Package Control: Remove Package"
+			],
+			[
+				"js hi",
+				"JSHint"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"xde",
+				"Xdebug: Clear All Breakpoints"
+			],
+			[
+				"xdebi",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"xdebug",
+				"Xdebug: Breakpoint - Run"
+			],
+			[
+				"xdebu",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebig",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jav",
+				"Format: Javascript"
+			],
+			[
+				"Javascript",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"reposi",
+				"Package Control: Add Repository"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"cod",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Hello"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"fm",
+				"phpfmt: format now"
+			],
+			[
+				"Upgrad",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"PHP: Generate",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Discov",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 455.0,
+		"history":
+		[
+			"exit",
+			"os.system(\"clear\")",
+			"sublime.log_commands(True)",
+			"clear",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mbenevides/Área de Trabalho/musicfy"
+	],
+	"file_history":
+	[
+		"/home/mbenevides/Área de Trabalho/teste/server.js",
+		"/home/mbenevides/Área de Trabalho/musicfy/package.json",
+		"/home/mbenevides/Área de Trabalho/angularJS/exemplos/alurapic/package.json",
+		"/home/mbenevides/Área de Trabalho/teste/server_good.js",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/alurapic/app/routes/index.js",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/alurapic/server.js",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/alurapic/public/index.html",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/alurapic/app/api/index.js",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/alurapic/config/express.js",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/alurapic/config/database.js",
+		"/home/mbenevides/Área de Trabalho/teste/resultado.json",
+		"/var/www/html/webrh/pages/cartao/cancelamento/Administrar.edit",
+		"/var/www/html/webrh/pages/cartao/cancelamento/Administrar.page",
+		"/var/www/html/webrh/application/control/cartao/cancelamento/Controle.class.php",
+		"/var/www/html/webrh/pages/cartao/cancelamento/Administrar.php",
+		"/var/www/html/webrh/application/model/cartao/cancelamento/Cancelamento.class.php",
+		"/var/www/html/webrh/application/model/cartao/cancelamento/LogAccess.class.php",
+		"/home/mbenevides/Área de Trabalho/teste/estrutura.json",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/alurapic/data.db",
+		"/home/mbenevides/Área de Trabalho/mmaapostas/resources/nextEvents.json",
+		"/home/mbenevides/Área de Trabalho/teste/melhor_server_ever3.js",
+		"/home/mbenevides/Área de Trabalho/teste/melhor_server_ever2.js",
+		"/home/mbenevides/Área de Trabalho/teste/melhor_server_ever.js",
+		"/home/mbenevides/Área de Trabalho/teste/server_old.js",
+		"/var/www/html/webrh/pages/dp/relatorios/BancoDeHorasDetalha.page.php",
+		"/var/www/html/webrh/pages/dp/relatorios/BancoDeHorasDetalha.php",
+		"/var/www/html/webrh/application/model/dp/bancodehoras/Diario.class.php",
+		"/home/mbenevides/Área de Trabalho/node/exemplos/buscar_dados_http/resultado.json",
+		"/home/mbenevides/Área de Trabalho/node/buscar_dados_http/server.js",
+		"/home/mbenevides/Área de Trabalho/teste/package.json",
+		"/home/mbenevides/Área de Trabalho/my-music/index.html",
+		"/home/mbenevides/Área de Trabalho/my-music/datas/map.json",
+		"/home/mbenevides/Área de Trabalho/my-music/datas/artists.json",
+		"/home/mbenevides/Área de Trabalho/my-music/run.js",
+		"/home/mbenevides/Área de Trabalho/teste/gulpfile.js",
+		"/home/mbenevides/Área de Trabalho/my-music/README.md",
+		"/home/mbenevides/Área de Trabalho/teste_node/app.js",
+		"/home/mbenevides/Área de Trabalho/teste_node/exemple_1.js",
+		"/home/mbenevides/Área de Trabalho/my-music/app.js",
+		"/home/mbenevides/Área de Trabalho/my-music/teste.js",
+		"/home/mbenevides/Área de Trabalho/mmaapostas/js/controllers/mmaApostasCtrl.js",
+		"/home/mbenevides/Área de Trabalho/mmaapostas/js/services/nextEventsAPIService.js",
+		"/home/mbenevides/Área de Trabalho/mmaapostas/index.html",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/lista_telefonica/aula_13_modularizando_projeto/js/controllers/listaTelefonicaCtrl.js",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/lista_telefonica/aula_13_modularizando_projeto/index.html",
+		"/home/mbenevides/Área de Trabalho/mmaapostas/js/main.js",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/lista_telefonica/aula_13_modularizando_projeto/js/services/contatosAPIService.js",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/lista_telefonica/aula_13_modularizando_projeto/js/services/operadorasAPIService.js",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/lista_telefonica/aula_13_modularizando_projeto/js/constants/configValue.js",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/lista_telefonica/aula_6_integrando_com_backend_com_ajax/index.html",
+		"/var/www/html/webrh/pages/admissao/Candidato.php",
+		"/var/www/html/webrh/pages/admissao/Candidato.page",
+		"/var/www/html/webrh/application/control/dcp/Processos.class.php",
+		"/var/www/html/webrh/cad_dcontratuais.php",
+		"/var/www/html/webrh/pages/WebService.php",
+		"/var/www/html/webrh/application/model/Candidato.class.php",
+		"/home/mbenevides/Downloads/Candidato.class.php",
+		"/home/mbenevides/Área de Trabalho/index.html",
+		"/var/www/html/webrh/pages/administracao/Lojas.page",
+		"/var/www/html/webrh/pages/administracao/Lojas.io",
+		"/var/www/html/webrh/pages/fiscal/notificacoes/Administrar.page",
+		"/var/www/html/webrh/application/model/regras/legislacao/NotificacoesxRelacionados.class.php",
+		"/var/www/html/webrh/application/model/regras/legislacao/Notificacoes.class.php",
+		"/var/www/html/webrh/pages/fiscal/notificacoes/Administrar.incluir_relacionados",
+		"/var/www/html/webrh/pages/fiscal/notificacoes/Administrar.io",
+		"/var/www/html/webrh/pages/fiscal/notificacoes/Administrar.php",
+		"/var/www/html/webrh/pages/gmdo/etiquetas/Administrar.page",
+		"/var/www/html/webrh/resources/js/global.js",
+		"/home/mbenevides/Área de Trabalho/bkp_20170102_admissao_candidato/pages/admissao/Candidato.page",
+		"/var/www/html/webrh/pages/gmdo/correios/servicos/pac/Solicitar.php",
+		"/var/www/html/webrh/pages/gmdo/correios/servicos/pac/Solicitar.etiqueta.print",
+		"/var/www/html/webrh/pages/gmdo/correios/servicos/pac/Solicitar.page",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/lista_telefonica/aula_2_usando_diretivas_parte_1/index.html",
+		"/home/mbenevides/Área de Trabalho/angular/exemplos/lista_telefonica/aula_1_introducao_e_hello_world/index.html",
+		"/var/www/html/webrh/pages/regras/legislacao/boletimfiscal/Cadastrar.php",
+		"/var/www/html/webrh/pages/dp/demissao/unir/ArquivosPDF.php",
+		"/var/www/html/webrh/application/control/PDF.class.php",
+		"/var/www/html/webrh/pages/regras/legislacao/InstrucaoInternaCSC.php",
+		"/var/www/html/webrh/application/control/dp/demissao/grrf/ProcessarGRRFPagamento.class.php",
+		"/var/www/html/webrh/application/control/regras/legislacao/boletimfiscal/Auxiliares.class.php",
+		"/home/mbenevides/Documentos/LASA/Projetos/GFIS/legislacao_fiscal_20161005/regras/legislacao/LegislacaoFiscal.php",
+		"/var/www/html/webrh/pages/gmdo/arquivos/UnirPDFPartes.php",
+		"/home/mbenevides/Documentos/LASA/Projetos/GFIS/legislacao_fiscal_20161005/regras/legislacao/jefferson_old/LegislacaoFiscal.php",
+		"/var/www/html/webrh/pages/regras/legislacao/boletimfiscal/Cadastrar.io",
+		"/var/www/html/webrh/application/model/regras/legislacao/LegislacaoFiscal.class.php",
+		"/var/www/html/webrh/LasaFramework/system/vendor/dompdf/PDF.class.php",
+		"/var/www/html/webrh/pages/dp/admissao/dependentes/Administrar.page",
+		"/var/www/html/webrh/pages/juridico/entrada02/Informativo.page",
+		"/var/www/html/webrh/application/control/SAP.class.php",
+		"/var/www/html/webrh/pages/cracha/impressoras/Administrar.page",
+		"/var/www/html/webrh/pages/juridico/entrada02/Direcionar.php",
+		"/var/www/html/webrh/pages/juridico/entrada01/Cadastrar.php",
+		"/var/www/html/webrh/application/model/admissao/Dependentes.class.php",
+		"/var/www/html/webrh/pages/dp/admissao/dependentes/Administrar.io",
+		"/var/www/html/webrh/pages/dp/admissao/dependentes/Administrar.php",
+		"/var/www/html/webrh/pages/cracha/impressoras/Administrar.php",
+		"/var/www/html/webrh/pages/admissao/cracha/ImprimirNovo.page",
+		"/var/www/html/webrh/pages/dp/admissao/candidato/ChecarPresenca.page",
+		"/var/www/html/webrh/pages/engenharia/webloja/materiais/grade/Administrar.php",
+		"/var/www/html/webrh/pages/cracha/impressoras/Administrar.io",
+		"/var/www/html/webrh/resources/js/engenharia/servicos/loja/funcoes.js",
+		"/var/www/html/webrh/resources/js/engenharia/servicos/loja/finalizar.js",
+		"/var/www/html/webrh/pages/administracao/Externos.php",
+		"/var/www/html/webrh/pages/cracha/associado/Solicitacao.io",
+		"/var/www/html/webrh/pages/admissao/cracha/ImprimirNovo.solicitar_cracha.io",
+		"/var/www/html/webrh/pages/engenharia/webloja/materiais/grade/Administrar.page",
+		"/var/www/html/webrh/pages/engenharia/servicos/loja/Finalizar.page",
+		"/var/www/html/webrh/pages/administracao/AssociadosExternos.page",
+		"/var/www/html/webrh/pages/juridico/entrada02/Direcionar.page",
+		"/var/www/html/webrh/application/control/admissao/Membro.class.php",
+		"/var/www/html/webrh/pages/admissao/cracha/ImprimirAssociados.page",
+		"/var/www/html/webrh/pages/juridico/entrada02/HistoricoEntrada02.page",
+		"/var/www/html/webrh/pages/gmdo/etiquetas/Administrar.php",
+		"/var/www/html/webrh/application/control/engenharia/servicos/ControleServicos.class.php",
+		"/var/www/html/webrh/pages/engenharia/servicos/ControleServicos.php",
+		"/var/www/html/webrh/application/model/engenharia/servicos/Controle.class.php",
+		"/var/www/html/webrh/application/model/juridico/Entrada02.class.php",
+		"/var/www/html/webrh/application/model/gmdo/correios/Servicos.class.php",
+		"/var/www/html/webrh/application/model/engenharia/servicos/ServicosStatus.class.php",
+		"/var/www/html/webrh/application/control/engenharia/servicos/Auxiliares.class.php",
+		"/var/www/html/webrh/application/model/admissao/Motivo.class.php",
+		"/var/www/html/webrh/application/control/Arquivos.class.php",
+		"/var/www/html/webrh/pages/engenharia/servicos/ControleServicos.page",
+		"/var/www/html/webrh/pages/engenharia/servicos/auditoria/Administrar.page",
+		"/var/www/html/webrh/pages/engenharia/servicos/ControleServicos.io",
+		"/var/www/html/webrh/application/control/engenharia/servicos/Loja.class.php",
+		"/var/www/html/webrh/application/model/Global.class.php",
+		"/var/www/html/webrh/pages/engenharia/servicos/loja/Finalizar.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.page",
+			"*.io",
+			"*.php",
+			"*.page",
+			"*.php",
+			"*.io",
+			"*page",
+			".page",
+			"",
+			"application/control/*.php",
+			"*.php",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"$this->lista->tab1",
+			"$lista->tab1",
+			"tab2",
+			"cancelamento não foi atualizado",
+			"console",
+			"};\n",
+			"readFile",
+			"listaTelefonicaCtrl",
+			"motivo",
+			"Motivo da",
+			"gravaDados",
+			"controle",
+			"setMedidaMotivo",
+			"move",
+			"medidaMotivo",
+			"motivoMedida",
+			"obj.sp",
+			"validar",
+			"valida",
+			"validaTab",
+			"validaT",
+			"validaTa",
+			"validarTa",
+			"validateTa",
+			"gravaDados",
+			"verificaFinal",
+			"getSindicato",
+			"Atenção, o cadastro desse candidato não foi finalizado, finalize para continuar!",
+			"submeter",
+			"1000",
+			"juntar",
+			"juntarPDF",
+			"exit",
+			"file_temp",
+			"load_html",
+			"assunto",
+			"filtroClienteLer",
+			"funcoes",
+			"salvar",
+			"filtro->sim_nao",
+			"telefone",
+			"formataTelefone",
+			"cpf_dependente",
+			"setDataNasc",
+			"dataNas",
+			"dataNasc",
+			"telefonePrimario",
+			"nome_veio_banco",
+			" <input type=\"checkbox",
+			"cargo",
+			"enviar",
+			"inpu",
+			"form_finaliza_solicitacao",
+			"checarCpf",
+			"validar email mask",
+			"mask email",
+			"validarEmail",
+			"email",
+			".email",
+			".tel",
+			".cpf",
+			"cMembro",
+			"Application_Control_Admissao_Membro",
+			"Application_Model_Engenharia_Servicos_ServicosStatus",
+			"cargo",
+			"ESOCIAL",
+			"cargo",
+			"item->getNome",
+			"spanCpf",
+			"faNascimento",
+			"spanCpf",
+			"Application_Control_Arquivos::download",
+			"motivo",
+			"grava",
+			"medidaMotivo",
+			"carregar",
+			"editar",
+			"$this->item",
+			"dropzone",
+			"data",
+			"cargo",
+			"hideCpf",
+			"alert",
+			"dropzone",
+			"motivoMedida",
+			"travando",
+			"enviar",
+			"INSERT",
+			"itemscombo",
+			"itensCombo",
+			"tb_motivo",
+			"aba ",
+			"tabs9",
+			"aba",
+			"atualizaDados",
+			"novoCandidato",
+			"aba",
+			"var obj = $(\"#tabs\" + aba);",
+			"gravaDados",
+			"url",
+			"getLogado",
+			"divDadosCpf",
+			"$this->filtro->cds",
+			"debug",
+			"removerMigracao",
+			"->having",
+			"addHaving",
+			"having",
+			"exit",
+			"NIN",
+			"!='X'",
+			"!=X'",
+			"!=",
+			"uf",
+			"UF",
+			"ufTab1",
+			"ordem",
+			"valor_tomada_decisao_1_2",
+			"GROUP BY CAST(IF",
+			"addGro",
+			"filtro",
+			"salvarPorcentagemSegurancaGrade",
+			"Estoque",
+			"calcularPercentualSeguranca",
+			"&&",
+			"insert",
+			"update",
+			"insert"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.paneltranformations":
+	{
+		"height": 88.0
+	},
+	"output.xdebug":
+	{
+		"height": 115.0
+	},
+	"pinned_build_system": "",
+	"project": "musicfy.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cancelamentoadmini",
+				"pages/cartao/cancelamento/Administrar.page"
+			],
+			[
+				"cartaocancelamentoadmini",
+				"pages/cartao/cancelamento/Administrar.edit"
+			],
+			[
+				"cartaocancelamentocontrole",
+				"application/control/cartao/cancelamento/Controle.class.php"
+			],
+			[
+				"bancodehorasdeta",
+				"pages/dp/relatorios/BancoDeHorasDetalha.page.php"
+			],
+			[
+				"we",
+				"pages/WebService.php"
+			],
+			[
+				"cad_dc",
+				"cad_dcontratuais.php"
+			],
+			[
+				"webserv",
+				"pages/WebService.php"
+			],
+			[
+				"pagesadmissaocandi",
+				"pages/admissao/Candidato.page"
+			],
+			[
+				"pagesadmissaocandidato",
+				"pages/admissao/Candidato.php"
+			],
+			[
+				"administracaolojas",
+				"pages/administracao/Lojas.io"
+			],
+			[
+				"notificacoesadmin",
+				"pages/fiscal/notificacoes/Administrar.page"
+			],
+			[
+				"etiquetasadmini",
+				"pages/gmdo/etiquetas/Administrar.page"
+			],
+			[
+				"fiscalnotificacoes",
+				"pages/fiscal/notificacoes/Administrar.incluir_relacionados"
+			],
+			[
+				"fiscalnotificacoesadm",
+				"pages/fiscal/notificacoes/Administrar.io"
+			],
+			[
+				"fiscalnotificacoesadmini",
+				"pages/fiscal/notificacoes/Administrar.php"
+			],
+			[
+				"webser",
+				"pages/WebService.php"
+			],
+			[
+				"cadcon",
+				"cad_dcontratuais.php"
+			],
+			[
+				"admissaocandidatophp",
+				"pages/admissao/Candidato.php"
+			],
+			[
+				"admissaocandidato",
+				"pages/admissao/Candidato.page"
+			],
+			[
+				"cad_dcontratuais",
+				"cad_dcontratuais.php"
+			],
+			[
+				"servicospacetiqueta",
+				"pages/gmdo/correios/servicos/pac/Solicitar.etiqueta.print"
+			],
+			[
+				"servicospacsolicit",
+				"pages/gmdo/correios/servicos/pac/Solicitar.page"
+			],
+			[
+				"servicospacsolicitar",
+				"pages/gmdo/correios/servicos/pac/Solicitar.php"
+			],
+			[
+				"legislacaoboletim",
+				"pages/regras/legislacao/boletimfiscal/Cadastrar.io"
+			],
+			[
+				"boletimfiscalcada",
+				"pages/regras/legislacao/boletimfiscal/Cadastrar.php"
+			],
+			[
+				"pagesadmissaocandida",
+				"pages/admissao/Candidato.page"
+			],
+			[
+				"sap",
+				"application/control/SAP.class.php"
+			],
+			[
+				"dependentesadmin",
+				"pages/dp/admissao/dependentes/Administrar.page"
+			],
+			[
+				"impressorasadmini",
+				"pages/cracha/impressoras/Administrar.page"
+			],
+			[
+				"entrada02informativo",
+				"pages/juridico/entrada02/Informativo.page"
+			],
+			[
+				"entrada02dire",
+				"pages/juridico/entrada02/Direcionar.php"
+			],
+			[
+				"entrada01cada",
+				"pages/juridico/entrada01/Cadastrar.php"
+			],
+			[
+				"impressorasadmin",
+				"pages/cracha/impressoras/Administrar.page"
+			],
+			[
+				"imprimirnovo",
+				"pages/admissao/cracha/ImprimirNovo.page"
+			],
+			[
+				"direcionar",
+				"pages/juridico/entrada02/Direcionar.php"
+			],
+			[
+				"gradeadmini",
+				"pages/engenharia/webloja/materiais/grade/Administrar.php"
+			],
+			[
+				"dependentesadminist",
+				"pages/dp/admissao/dependentes/Administrar.page"
+			],
+			[
+				"dependentesadmini",
+				"pages/dp/admissao/dependentes/Administrar.php"
+			],
+			[
+				"impressorasad",
+				"pages/cracha/impressoras/Administrar.php"
+			],
+			[
+				"lojafuncoesjs",
+				"resources/js/engenharia/servicos/loja/funcoes.js"
+			],
+			[
+				"lojafinalizarjs",
+				"resources/js/engenharia/servicos/loja/finalizar.js"
+			],
+			[
+				"dependentesclass",
+				"application/model/admissao/Dependentes.class.php"
+			],
+			[
+				"admissaodependentesadmini",
+				"pages/dp/admissao/dependentes/Administrar.php"
+			],
+			[
+				"crachasoli",
+				"pages/cracha/associado/Solicitacao.io"
+			],
+			[
+				"boletimfisca",
+				"pages/regras/legislacao/boletimfiscal/Cadastrar.io"
+			],
+			[
+				"impressorasadmi",
+				"pages/cracha/impressoras/Administrar.io"
+			],
+			[
+				"lojafinalizarpage",
+				"pages/engenharia/servicos/loja/Finalizar.page"
+			],
+			[
+				"servicolojafuncoes",
+				"resources/js/engenharia/servicos/loja/funcoes.js"
+			],
+			[
+				"servicoslojafinali",
+				"resources/js/engenharia/servicos/loja/finalizar.js"
+			],
+			[
+				"gradeadmin",
+				"pages/engenharia/webloja/materiais/grade/Administrar.page"
+			],
+			[
+				"admissaodependentes",
+				"pages/dp/admissao/dependentes/Administrar.php"
+			],
+			[
+				"admissaodepende",
+				"pages/dp/admissao/dependentes/Administrar.page"
+			],
+			[
+				"entrada02direcion",
+				"pages/juridico/entrada02/Direcionar.page"
+			],
+			[
+				"admissaocandidatopage",
+				"pages/admissao/Candidato.page"
+			],
+			[
+				"membro",
+				"application/control/admissao/Membro.class.php"
+			],
+			[
+				"imprimirassoci",
+				"pages/admissao/cracha/ImprimirAssociados.page"
+			],
+			[
+				"entrada02page",
+				"pages/juridico/entrada02/HistoricoEntrada02.page"
+			],
+			[
+				"etiquetasadmin",
+				"pages/gmdo/etiquetas/Administrar.php"
+			],
+			[
+				"controleservico",
+				"pages/engenharia/servicos/ControleServicos.php"
+			],
+			[
+				"entrada02clas",
+				"application/model/juridico/Entrada02.class.php"
+			],
+			[
+				"servicosclassphp",
+				"application/model/gmdo/correios/Servicos.class.php"
+			],
+			[
+				"controleser",
+				"pages/engenharia/servicos/ControleServicos.php"
+			],
+			[
+				"cadcontratua",
+				"cad_dcontratuais.php"
+			],
+			[
+				"controleservicos",
+				"pages/engenharia/servicos/ControleServicos.page"
+			],
+			[
+				"servicoscontrole",
+				"pages/engenharia/servicos/ControleServicos.page"
+			],
+			[
+				"servicosadmin",
+				"pages/engenharia/servicos/auditoria/Administrar.page"
+			],
+			[
+				"arquivos",
+				"application/control/Arquivos.class.php"
+			],
+			[
+				"controleservicoscla",
+				"application/control/engenharia/servicos/ControleServicos.class.php"
+			],
+			[
+				"servicoscl",
+				"application/model/gmdo/correios/Servicos.class.php"
+			],
+			[
+				"controleservic",
+				"pages/engenharia/servicos/ControleServicos.php"
+			],
+			[
+				"servicosio",
+				"pages/engenharia/servicos/ControleServicos.io"
+			],
+			[
+				"applicationmodelcandi",
+				"application/model/Candidato.class.php"
+			],
+			[
+				"aplicationmodelcandida",
+				"application/model/Candidato.class.php"
+			],
+			[
+				"servicoslojaclass",
+				"application/control/engenharia/servicos/Loja.class.php"
+			],
+			[
+				"etiquetasadm",
+				"pages/gmdo/etiquetas/Administrar.page"
+			],
+			[
+				"servicosfuncoes",
+				"resources/js/engenharia/servicos/funcoes.js"
+			],
+			[
+				"servicosjs",
+				"resources/js/engenharia/servicos/controle_servicos.js"
+			],
+			[
+				"servicoslojafin",
+				"pages/engenharia/servicos/loja/Finalizar.php"
+			],
+			[
+				"servicosenvio",
+				"pages/engenharia/servicos/loja/Finalizar.enviar_fotos"
+			],
+			[
+				"controleservicosjs",
+				"resources/js/engenharia/servicos/controle_servicos.js"
+			],
+			[
+				"cad_contra",
+				"cad_dcontratuais.php"
+			],
+			[
+				"inc_funcoes",
+				"inc/inc_funcoes.php"
+			],
+			[
+				"controleservi",
+				"pages/engenharia/servicos/ControleServicos.php"
+			],
+			[
+				"applicationmodelengenhariaweblojadepartamentocompra",
+				"application/model/engenharia/webloja/DepartamentoCompra.class.php"
+			],
+			[
+				"cad_contratuais",
+				"cad_dcontratuais.php"
+			],
+			[
+				"logisticareversaadmin",
+				"pages/gmdo/logisticareversa/malotes/Administrar.page"
+			],
+			[
+				"regrasblo",
+				"resources/js/engenharia/servicos/regras_bloqueio.js"
+			],
+			[
+				"logisticareversa",
+				"pages/gmdo/logisticareversa/malotes/Administrar.page"
+			],
+			[
+				"logisticareversajs",
+				"resources/js/gmdo/logisticareversa/malotes/enviar_malotes.js"
+			],
+			[
+				"malotesfuncoes",
+				"resources/js/gmdo/logisticareversa/malotes/funcoes.js"
+			],
+			[
+				"admissaocandidatojs",
+				"resources/js/admissao/candidato.js"
+			],
+			[
+				"materiaisgradeadmin",
+				"pages/engenharia/webloja/materiais/grade/Administrar.page"
+			],
+			[
+				"imprimirassociados",
+				"pages/admissao/cracha/ImprimirAssociados.php"
+			],
+			[
+				"entrada02direcionardi",
+				"pages/juridico/entrada02/Direcionar.direcionado.page"
+			],
+			[
+				"entrada02di",
+				"pages/juridico/entrada02/Direcionar.page"
+			],
+			[
+				"materiaisgradeadmini",
+				"pages/engenharia/webloja/materiais/grade/Administrar.page"
+			],
+			[
+				"relatorioglob",
+				"pages/engenharia/webloja/materiais/RelatorioGlobal.php"
+			],
+			[
+				"relatorioglo",
+				"pages/engenharia/webloja/materiais/RelatorioGlobal.php"
+			],
+			[
+				"relatoriogl",
+				"pages/engenharia/webloja/materiais/RelatorioGlobal.php"
+			],
+			[
+				"gradeadminis",
+				"pages/engenharia/webloja/materiais/grade/Administrar.php"
+			],
+			[
+				"legislacaofiscalcadas",
+				"resources/js/regras/legislacaofiscal/cadastrar.js"
+			],
+			[
+				"boletimfica",
+				"pages/regras/legislacao/boletimfiscal/Cadastrar.php"
+			],
+			[
+				"regraslegislacaobole",
+				"pages/regras/legislacao/boletimfiscal/Cadastrar.io"
+			],
+			[
+				"regraslegislacaoboletimfiscalcada",
+				"pages/regras/legislacao/boletimfiscal/Cadastrar.page"
+			],
+			[
+				"pedidoloja",
+				"pages/engenharia/webloja/materiais/PedidoLoja.php"
+			],
+			[
+				"limite",
+				"pages/engenharia/webloja/materiais/Limite.php"
+			],
+			[
+				"gradeauxili",
+				"application/control/engenharia/webloja/grade/Auxiliar.class.php"
+			],
+			[
+				"materiaisgradefuncoes",
+				"resources/js/engenharia/webloja/materiais/grade/funcoes.js"
+			],
+			[
+				"gradeadministrar",
+				"resources/js/engenharia/webloja/materiais/grade/administrar.js"
+			],
+			[
+				"applicationfunct",
+				"application/procedural/Functions.php"
+			],
+			[
+				"funcoes",
+				"funcoes.php"
+			],
+			[
+				"pedidoloj",
+				"pages/engenharia/webloja/materiais/PedidoLoja.php"
+			],
+			[
+				"gradefuncoes",
+				"resources/js/engenharia/webloja/materiais/grade/funcoes.js"
+			],
+			[
+				"notificacoesadmini",
+				"pages/fiscal/notificacoes/Administrar.php"
+			],
+			[
+				"notasfiscais",
+				"pages/engenharia/servicos/NotasFiscais.php"
+			],
+			[
+				"logisticareversaadmi",
+				"pages/gmdo/logisticareversa/malotes/Administrar.php"
+			],
+			[
+				"materiaisadmini",
+				"pages/engenharia/webloja/materiais/Administrar.php"
+			],
+			[
+				"notasficais",
+				"pages/engenharia/servicos/NotasFiscais.php"
+			],
+			[
+				"jsmateriaisgradeadmin",
+				"resources/js/engenharia/webloja/materiais/grade/administrar.js"
+			],
+			[
+				"boletimfiscalcadas",
+				"pages/regras/legislacao/boletimfiscal/Cadastrar.php"
+			],
+			[
+				"processos",
+				"pages/dp/admissao/Processos.page"
+			],
+			[
+				"entrada02infor",
+				"pages/juridico/entrada02/Informativo.page"
+			],
+			[
+				"juridicoentrada02infor",
+				"pages/juridico/entrada02/Informativo.php"
+			],
+			[
+				"entrada02solici",
+				"pages/juridico/entrada02/Solicitar.io"
+			],
+			[
+				"entrada02direcionar",
+				"pages/juridico/entrada02/Direcionar.php"
+			],
+			[
+				"weblojamateriaisgradeadmin",
+				"pages/engenharia/webloja/materiais/grade/Administrar.php"
+			],
+			[
+				"visitantecadastrar",
+				"pages/dcp/visitante/Cadastrar.php"
+			],
+			[
+				"instruicao",
+				"pages/regras/legislacao/InstrucaoInternaCSCRegras.io"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "dataInicioContrato",
+		"selected_items":
+		[
+			[
+				"dataInicioContrato",
+				"getDataInicioContrato"
+			],
+			[
+				"",
+				"setDataIniciou"
+			]
+		],
+		"width": 638.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
