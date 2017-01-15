@@ -1,0 +1,103 @@
+{
+    "artists": [
+        {
+            "name": "INXS",
+            "slug": "inxs",
+            "artist_path": "./public/discoteca/INXS",
+            "albums": []
+        },
+        {
+            "name": "Korn",
+            "slug": "korn",
+            "artist_path": "./public/discoteca/Korn",
+            "albums": []
+        },
+        {
+            "name": "Metallica",
+            "slug": "metallica",
+            "artist_path": "./public/discoteca/Metallica",
+            "albums": [
+                {
+                    "title": "Load",
+                    "album_path": "./public/discoteca/Metallica/Load",
+                    "slug": "load"
+                },
+                {
+                    "title": "Reload",
+                    "album_path": "./public/discoteca/Metallica/Reload",
+                    "slug": "reload"
+                }
+            ]
+        },
+        {
+            "name": "Pearl Jam",
+            "slug": "pearl-jam",
+            "artist_path": "./public/discoteca/Pearl Jam",
+            "albums": [
+                {
+                    "title": "Ten",
+                    "album_path": "./public/discoteca/Pearl Jam/Ten",
+                    "slug": "ten"
+                },
+                {
+                    "title": "Vs",
+                    "album_path": "./public/discoteca/Pearl Jam/Vs",
+                    "slug": "vs"
+                }
+            ]
+        },
+        {
+            "name": "Pink Floyd",
+            "slug": "pink-floyd",
+            "artist_path": "./public/discoteca/Pink Floyd",
+            "albums": [
+                {
+                    "title": "The Dark Side of the Moon",
+                    "album_path": "./public/discoteca/Pink Floyd/The Dark Side of the Moon",
+                    "slug": "the-dark-side-of-the-moon"
+                },
+                {
+                    "title": "The Division Bell",
+                    "album_path": "./public/discoteca/Pink Floyd/The Division Bell",
+                    "slug": "the-division-bell"
+                }
+            ]
+        },
+        {
+            "name": "Sepultura",
+            "slug": "sepultura",
+            "artist_path": "./public/discoteca/Sepultura",
+            "albums": [
+                {
+                    "title": "Roots",
+                    "album_path": "./public/discoteca/Sepultura/Roots",
+                    "slug": "roots"
+                }
+            ]
+        },
+        {
+            "name": "The Cure",
+            "slug": "the-cure",
+            "artist_path": "./public/discoteca/The Cure",
+            "albums": [
+                {
+                    "title": "Kiss Kiss Kiss",
+                    "album_path": "./public/discoteca/The Cure/Kiss Kiss Kiss",
+                    "slug": "kiss-kiss-kiss"
+                }
+            ]
+        },
+        {
+            "name": "The Doors",
+            "slug": "the-doors",
+            "artist_path": "./public/discoteca/The Doors",
+            "albums": [
+                {
+                    "title": "The Doors",
+                    "album_path": "./public/discoteca/The Doors/The Doors",
+                    "slug": "the-doors"
+                }
+            ]
+        }
+    ]
+}
