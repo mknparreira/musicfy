@@ -8,10 +8,11 @@ module.exports = function(app){
     app.get('/', function(req, res){
         res.sendFile(path.resolve('application/index.html'));
     });
-    
+
     app.get('/api/getDiscography', function(req, res){
-    	var artists = Discography.getArtists();
-    	fs.writeFile(Constants.JsonSrcData + Discography.jsonName, JSON.stringify(artists, null, 4) , function(error) {
+        var discography = new Discography();
+    	var artists = discography.getArtists();
+    	fs.writeFile(Constants.JsonSrcData + discography.jsonName, JSON.stringify(artists, null, 4) , function(error) {
 	        if (error) {
 	            console.error("write error:  " + error.message);
 	        } else {
