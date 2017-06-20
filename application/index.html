@@ -1,13 +1,49 @@
-<html>
+<!DOCTYPE html>
+<html ng-app="musicfy">
     <html lang="pt-br">
     <head>
         <meta charset="UTF-8">
-        <title>Musicfy</title>
+        <title>Songfy</title>
         <script src="lib/angular/angular.js"></script>
         <script src="lib/angular/angular-locale_pt-br.js"></script>
+        <script src="lib/angular/angular-route.min.js"></script>
+        <script src="lib/underscore/underscore-min.js"></script>
+        <script src="lib/angular-underscore-module/angular-underscore-module.js"></script>
+        <script src='lib/helpers/global.js'></script>
+        <script src="js/app.js"></script>
+        <script src="js/config/routeConfig.js"></script>
+        <script src="js/config/globalConfig.js"></script>
+        <script src="js/services/DiscographyAPIService.js"></script>
+        <script src="js/controllers/generalCtrl.js"></script>
+        <script src="js/controllers/albumsCtrl.js"></script>
+        <script src="js/controllers/artistsCtrl.js"></script>
+        <script src="js/controllers/songsCtrl.js"></script>
+        <script src="js/controllers/playlistsCtrl.js"></script>
         <link rel="stylesheet" href="lib/bootstrap/bootstrap.css">
     </head>
-    <body>
-        <h1>Hellooo!!!! Is a anybody in there!</h1>
+    <body ng-controller="generalCtrl">
+        <div class="container">
+            <h3 ng-bind="app"></h3>
+            <div class="row">
+                <div class="col-xs-4">
+                    <input type="text" class="form-control" name="search" placeholder="search">
+                    <button type="submit" class="btn btn-primary">Get It!</button>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="container">
+            <div class="col-md-4">
+                <ul class="list-inline">
+                    <li><a href="#/artists">Artists</a></li>
+                    <li><a href="#/albums">Albums</a></li>
+                    <li><a href="#/songs">Songs</a></li>
+                    <li><a href="#/playlists">Playlists (soon)</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="container">
+            <ng-view></ng-view>
+        </div>
     </body>
 </html>

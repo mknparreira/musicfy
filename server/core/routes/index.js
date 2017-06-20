@@ -9,32 +9,44 @@ module.exports = function(app){
         res.sendFile(path.resolve('application/index.html'));
     });
 
-    app.get('/api/getDiscography', function(req, res){
+    app.get('/api/artists/', function(req, res){
         var discography = new Discography();
-    	var artists = discography.getArtists();
-    	fs.writeFile(Constants.JsonSrcData + discography.jsonName, JSON.stringify(artists, null, 4) , function(error) {
-	        if (error) {
-	            console.error("write error:  " + error.message);
-	        } else {
-	            console.log('JSON escrito com sucesso! O arquivo está na raiz do projeto.');
-	            res.end();
-	        }
-   	 	});
+        res.json(discography.getArtists());
+    });
+
+    app.get('/api/artist/:slug', function(req, res){
+        var discography = new Discography();
+        res.json(discography.getArtist(req.params.slug));
+    });
+
+    app.get('/api/albums/', function(req, res){
+        var discography = new Discography();
+        res.json(discography.getAlbums());
+    });
+
+    app.get('/api/album/:slugArtist/:slugAlbum', function(req, res){
+        var discography = new Discography();
+        res.json(discography.getAlbum(req.params.slugArtist, req.params.slugAlbum));
+    });
+
+    app.get('/api/songs/', function(req, res){
+        var discography = new Discography();
+        res.json(discography.getSongs());
     });
 
     /// Vou utilizar esse método para ficar observando se o diretório é alterado e assim gerar o arquivo json.
-// app.get('/testSincronia', function(req, res) {
-//     fs.watch(srcpath, function(eventType, filename){
-//         console.log("chegou aqui");
-//         if(filename){
-//             console.log(eventType);
-//             console.log(filename);
-//         }else{
-//             console.log('filename not provided');
-//         }
+    // app.get('/testSincronia', function(req, res) {
+    //     fs.watch(srcpath, function(eventType, filename){
+    //         console.log("chegou aqui");
+    //         if(filename){
+    //             console.log(eventType);
+    //             console.log(filename);
+    //         }else{
+    //             console.log('filename not provided');
+    //         }
 
-//     });
-//  });
+    //     });
+    //  });
 
 
 };

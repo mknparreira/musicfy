@@ -1,5 +1,5 @@
 {
-  "name": "musicfy",
+  "name": "songfy",
   "version": "1.0.0",
   "description": "\"Music mp3 client\"",
   "main": "index.js",
