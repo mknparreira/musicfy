@@ -1,6 +1,6 @@
-    <h1>Page of artist: {{artist.name}}</h1>
-    <ul ng-repeat="album in albums">
+    <h1>Page of artist: {{ArtistView.artist.name}}</h1>
+    <ul ng-repeat="album in ArtistView.albums">
        <li>
-            <a href="#/album/{{artist.slug}}/{{album.album_slug}}">{{album.title}}</a>
+            <a href="#/album/{{ArtistView.artist.slug}}/{{album.album_slug}}">{{album.title}}</a>
        </li>
     </ul>

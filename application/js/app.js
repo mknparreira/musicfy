@@ -1,1 +1,1 @@
-var app = angular.module("musicfy", ["ngRoute", "underscore"]);
+angular.module('songfy', ['ngRoute', 'underscore']);

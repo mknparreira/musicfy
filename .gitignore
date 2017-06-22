@@ -1,2 +1,4 @@
 server/node_modules
 public/discoteca
+.jscsrc
+songfy.sublime-project
